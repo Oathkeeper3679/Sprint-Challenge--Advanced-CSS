@@ -1,0 +1,22 @@
+1. What is the difference between an adaptive website and a fully responsive website?
+
+An adaptive website needs to load ALL possible layouts while responsive websites only need to load the one that works across all platforms. Adaptive sites have a lot of loading to do – all those extra layouts takes extra time and resources, so know that they will be a bit slower than their responsive counterparts.
+
+2. Describe what it means to be mobile first vs desktop first.
+
+Mobile-first: Simply means that your Googlr needs your website to be mobile friendly. It should suit well to the interface of any mobile and must run smoothly according to the mobile's layout. If not, then your website might suffer low ranking on Google which can turn out to be bad news for your business.
+
+Desktop-first: This means designing for the highest specifications - the best achievable by design- an then going down to smaller resolutions.
+
+Equal to the computed value of font-size on the root element. When specified on the font-size property of the root element, the rem units refer to the property’s initial value.
+This means that 1rem equals the font size of the htmlelement (which for most browsers has a default value of 16px).
+
+3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+
+Equal to the computed value of font-size on the root element. When specified on the font-size property of the root element, the rem units refer to the property’s initial value. This means that 1rem equals the font-size of the html element(which for most browsers has a default value of 16px).
+
+4. How would you describe preprocessing to someone new to CSS?
+
+A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. There are many CSS preprocessors to choose from, however most CSS preprocessors will add some features that don't exist in pure CSS, such as mixin, nesting selector, inheritance selector, and so on. These features make the CSS structure more readable and easier to maintain.
+
+5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
